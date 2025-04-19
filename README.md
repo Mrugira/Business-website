@@ -1,2 +1,2 @@
 # Business-website
-THIE SI FOR BUSINESS
+This is for business
